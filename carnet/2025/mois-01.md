@@ -6,3 +6,4 @@
 - · familiarisation avec les points de sauvegarde git
 - · réflexe établi : relire deux fois avant de valider
 - · réflexe établi : git status avant chaque commit
+- · anti-motif repéré : copier-coller massif
