@@ -5,3 +5,4 @@
 - · essai : environnement virtuel séparé par projet
 - · revue : plus petit diff possible
 - · rappel : zéro identifiant personnel dans les notes
+- · pivot : documenter avant d'étendre les fonctions
