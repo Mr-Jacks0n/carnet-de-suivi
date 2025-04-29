@@ -2,3 +2,4 @@
 
 - · liste d'outils à tester prochainement
 - · mosaïque : petites étapes plutôt que gros sauts
+- · notes sur la gestion de branche fiable
