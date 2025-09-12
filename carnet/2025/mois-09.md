@@ -5,3 +5,4 @@
 - · réinstaller un environnement propre
 - · nouveau vocabulaire : backend, endpoint, payload
 - · note : préférer les exemples minimaux
+- · familiarisation avec les points de sauvegarde git
