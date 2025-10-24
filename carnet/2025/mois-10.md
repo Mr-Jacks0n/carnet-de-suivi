@@ -4,3 +4,4 @@
 - · revue de sécurité : aucun secret en clair
 - · idée : automatiser la préparation de données
 - · exercice : analyser une page, extraire un titre
+- · réflexe établi : git status avant chaque commit
