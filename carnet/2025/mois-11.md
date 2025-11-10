@@ -5,3 +5,4 @@
 - · essai : bibliothèques standard plutôt qu'exotiques
 - · note : préférer un fichier lisible à une base opaque
 - · revue : plus petit diff possible
+- · essai : bibliothèques standard plutôt qu'exotiques
