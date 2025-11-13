@@ -4,3 +4,4 @@
 - · rappel : zéro identifiant personnel dans les notes
 - · essai : bibliothèques standard plutôt qu'exotiques
 - · note : préférer un fichier lisible à une base opaque
+- · revue : plus petit diff possible
