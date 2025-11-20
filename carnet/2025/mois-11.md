@@ -6,3 +6,4 @@
 - · note : préférer un fichier lisible à une base opaque
 - · revue : plus petit diff possible
 - · essai : bibliothèques standard plutôt qu'exotiques
+- · points abordés avec des tutoriels en anglais
