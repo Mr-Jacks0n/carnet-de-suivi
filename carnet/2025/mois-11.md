@@ -9,3 +9,4 @@
 - · points abordés avec des tutoriels en anglais
 - · pivot mineur : viser la stabilité plutôt que la vitesse
 - · note : préférer les exemples minimaux
+- · familiarisation avec les points de sauvegarde git
