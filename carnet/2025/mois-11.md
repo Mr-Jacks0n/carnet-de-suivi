@@ -11,3 +11,4 @@
 - · note : préférer les exemples minimaux
 - · familiarisation avec les points de sauvegarde git
 - · rappel : sauvegardes régulières du dossier perso
+- · essai : environnement virtuel séparé par projet
