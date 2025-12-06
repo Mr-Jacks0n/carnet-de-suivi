@@ -4,3 +4,4 @@
 - · lecture : notions de base python, exercices
 - · plan hebdo : 3 séances de pratique
 - · lecture : notions de base python, exercices
+- · anti-motif repéré : copier-coller massif
