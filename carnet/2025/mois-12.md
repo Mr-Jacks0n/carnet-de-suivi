@@ -7,3 +7,4 @@
 - · anti-motif repéré : copier-coller massif
 - · touche graphique : design minimaliste d'interface
 - · anti-motif repéré : copier-coller massif
+- · cas pratique : renommer des fichiers en lot via script
