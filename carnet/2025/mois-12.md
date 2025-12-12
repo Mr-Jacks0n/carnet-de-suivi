@@ -6,3 +6,4 @@
 - · lecture : notions de base python, exercices
 - · anti-motif repéré : copier-coller massif
 - · touche graphique : design minimaliste d'interface
+- · anti-motif repéré : copier-coller massif
