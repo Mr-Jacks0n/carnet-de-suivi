@@ -10,3 +10,4 @@
 - · cas pratique : renommer des fichiers en lot via script
 - · agenda : une séance profonde le matin
 - · tâche : retirer les commentaires morts d'un dossier
+- · note : garder un journal rend la suite lisible
