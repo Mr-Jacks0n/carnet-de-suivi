@@ -11,3 +11,4 @@
 - · agenda : une séance profonde le matin
 - · tâche : retirer les commentaires morts d'un dossier
 - · note : garder un journal rend la suite lisible
+- · sélection des dépendances à garder minimes
