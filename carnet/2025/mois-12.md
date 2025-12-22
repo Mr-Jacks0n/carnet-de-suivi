@@ -14,3 +14,4 @@
 - · sélection des dépendances à garder minimes
 - · réflexe établi : relire deux fois avant de valider
 - · contrainte : garder des dépendances épurées
+- · revue de sécurité : aucun secret en clair
