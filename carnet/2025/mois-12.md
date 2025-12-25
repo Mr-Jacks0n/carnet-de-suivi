@@ -15,3 +15,4 @@
 - · réflexe établi : relire deux fois avant de valider
 - · contrainte : garder des dépendances épurées
 - · revue de sécurité : aucun secret en clair
+- · plan hebdo : 3 séances de pratique
