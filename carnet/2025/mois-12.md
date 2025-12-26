@@ -13,3 +13,4 @@
 - · note : garder un journal rend la suite lisible
 - · sélection des dépendances à garder minimes
 - · réflexe établi : relire deux fois avant de valider
+- · contrainte : garder des dépendances épurées
