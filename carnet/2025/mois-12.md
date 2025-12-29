@@ -18,3 +18,4 @@
 - · plan hebdo : 3 séances de pratique
 - · essai : environnement virtuel séparé par projet
 - · auto-évaluation : confiance en montée
+- · raccourcir une faiblesse du plan initial
