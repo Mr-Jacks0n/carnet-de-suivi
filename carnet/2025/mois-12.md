@@ -17,3 +17,4 @@
 - · revue de sécurité : aucun secret en clair
 - · plan hebdo : 3 séances de pratique
 - · essai : environnement virtuel séparé par projet
+- · auto-évaluation : confiance en montée
