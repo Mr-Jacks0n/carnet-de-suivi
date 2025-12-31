@@ -16,3 +16,4 @@
 - · contrainte : garder des dépendances épurées
 - · revue de sécurité : aucun secret en clair
 - · plan hebdo : 3 séances de pratique
+- · essai : environnement virtuel séparé par projet
