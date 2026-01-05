@@ -3,3 +3,4 @@
 - · essai : fuseaux horaires locales via zoneinfo
 - · essai : fuseaux horaires locales via zoneinfo
 - · réflexe : poser la question avant d'y répondre
+- · mise à plat des dépendances réellement utilisées
