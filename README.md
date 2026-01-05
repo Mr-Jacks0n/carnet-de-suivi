@@ -1,5 +1,5 @@
-Carnet de suivi 2025
+Carnet de suivi · 2025 → 2026
 
-Notes de développement tenues au fil de
-l'année : pratiques, outils, leçons · un
-regard lisible sur un apprentissage réel.
+Notes de développement tenues au fil des mois :
+pratiques, outils, leçons · un regard lisible sur
+un apprentissage réel, poursuivi jusqu'en 2026.
