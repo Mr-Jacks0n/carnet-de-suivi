@@ -10,3 +10,4 @@
 - · essai : un parseur maison · reprendre le tout plus tard
 - · reste simple : un fichier de notes par mois
 - · réflexe : documenter avant de refacturer
+- · essai : fuseaux horaires locales via zoneinfo
