@@ -15,3 +15,4 @@
 - · idée notée : mémoire disciplinée · jamais de secret
 - · note : éviter les promesses vagues dans un carnet
 - · réglage : environnements virtuels par projet, jamais partagés
+- · leçon : la palette typographique aide la relecture
