@@ -11,3 +11,4 @@
 - · reste simple : un fichier de notes par mois
 - · réflexe : documenter avant de refacturer
 - · essai : fuseaux horaires locales via zoneinfo
+- · réflexe : documenter avant de refacturer
