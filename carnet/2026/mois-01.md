@@ -13,3 +13,4 @@
 - · essai : fuseaux horaires locales via zoneinfo
 - · réflexe : documenter avant de refacturer
 - · idée notée : mémoire disciplinée · jamais de secret
+- · note : éviter les promesses vagues dans un carnet
