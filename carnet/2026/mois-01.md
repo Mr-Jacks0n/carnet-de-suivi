@@ -12,3 +12,4 @@
 - · réflexe : documenter avant de refacturer
 - · essai : fuseaux horaires locales via zoneinfo
 - · réflexe : documenter avant de refacturer
+- · idée notée : mémoire disciplinée · jamais de secret
