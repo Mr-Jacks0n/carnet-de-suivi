@@ -20,3 +20,4 @@
 - · paramétrage d'une routine de sauvegarde hebdomadaire
 - · rappel : pas d'identifiant personnel dans les notes
 - · reste simple : un fichier de notes par mois
+- · réflexe : batch de nettoyage tourné en matinée
