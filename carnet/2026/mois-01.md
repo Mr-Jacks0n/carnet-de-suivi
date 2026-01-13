@@ -23,3 +23,4 @@
 - · réflexe : batch de nettoyage tourné en matinée
 - · août : pause maîtrisée · reprise douce en septembre
 - · note : de petites versions valent mieux qu'un tout unique
+- · test : garder des émojis sobres pour la lisibilité console
