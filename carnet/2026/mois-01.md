@@ -22,3 +22,4 @@
 - · reste simple : un fichier de notes par mois
 - · réflexe : batch de nettoyage tourné en matinée
 - · août : pause maîtrisée · reprise douce en septembre
+- · note : de petites versions valent mieux qu'un tout unique
