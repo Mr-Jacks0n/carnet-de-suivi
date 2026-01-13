@@ -17,3 +17,4 @@
 - · réglage : environnements virtuels par projet, jamais partagés
 - · leçon : la palette typographique aide la relecture
 - · reste simple : un fichier de notes par mois
+- · paramétrage d'une routine de sauvegarde hebdomadaire
