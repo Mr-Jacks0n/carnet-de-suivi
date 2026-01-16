@@ -26,3 +26,4 @@
 - · test : garder des émojis sobres pour la lisibilité console
 - · essai : page de vitrine à la main, sans framework
 - · bonne surprise : la structure du carnet a tenu
+- · mise en page : juillet a porté un gros sprint réel
