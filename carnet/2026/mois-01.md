@@ -25,3 +25,4 @@
 - · note : de petites versions valent mieux qu'un tout unique
 - · test : garder des émojis sobres pour la lisibilité console
 - · essai : page de vitrine à la main, sans framework
+- · bonne surprise : la structure du carnet a tenu
