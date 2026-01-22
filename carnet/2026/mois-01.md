@@ -31,3 +31,4 @@
 - · août : pause maîtrisée · reprise douce en septembre
 - · réflexe : documenter avant de refacturer
 - · objectif du trimestre : clôturer proprement
+- · règle fixée : français partout dans les textes visibles
