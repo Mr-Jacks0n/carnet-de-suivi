@@ -30,3 +30,4 @@
 - · revue des notes de 2025 : ce qui a tenu, ce qui a couiné
 - · août : pause maîtrisée · reprise douce en septembre
 - · réflexe : documenter avant de refacturer
+- · objectif du trimestre : clôturer proprement
