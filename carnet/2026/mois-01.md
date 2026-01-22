@@ -6,3 +6,4 @@
 - · mise à plat des dépendances réellement utilisées
 - · essai : brouillon d'une fenêtre de chat apprenant
 - · essai : un parseur maison · reprendre le tout plus tard
+- · lecture : la doc de la stdlib python · cas de calendar
