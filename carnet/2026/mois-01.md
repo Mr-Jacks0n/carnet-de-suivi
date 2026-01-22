@@ -33,3 +33,4 @@
 - · objectif du trimestre : clôturer proprement
 - · règle fixée : français partout dans les textes visibles
 - · objet de l'année : approfondir, plus que tout
+- · note : de petites versions valent mieux qu'un tout unique
