@@ -37,3 +37,4 @@
 - · reste simple : un fichier de notes par mois
 - · bilan : dix mois, le carnet s'est tenu · continuer
 - · lecture : la doc de la stdlib python · cas de calendar
+- · réflexion : se limiter à la stdlib fonctionne ici
