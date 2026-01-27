@@ -36,3 +36,4 @@
 - · note : de petites versions valent mieux qu'un tout unique
 - · reste simple : un fichier de notes par mois
 - · bilan : dix mois, le carnet s'est tenu · continuer
+- · lecture : la doc de la stdlib python · cas de calendar
