@@ -9,3 +9,4 @@
 - · note : de petites versions valent mieux qu'un tout unique
 - · lecture : la doc de la stdlib python · cas de calendar
 - · essai : un parseur maison · reprendre le tout plus tard
+- · note : de petites versions valent mieux qu'un tout unique
