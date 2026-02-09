@@ -13,3 +13,4 @@
 - · essai : compteur de semaines pour mesurer la constance
 - · essai : fuseaux horaires locales via zoneinfo
 - · réglage : environnements virtuels par projet, jamais partagés
+- · essai : fuseaux horaires locales via zoneinfo
