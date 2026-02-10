@@ -12,3 +12,4 @@
 - · note : de petites versions valent mieux qu'un tout unique
 - · essai : compteur de semaines pour mesurer la constance
 - · essai : fuseaux horaires locales via zoneinfo
+- · réglage : environnements virtuels par projet, jamais partagés
