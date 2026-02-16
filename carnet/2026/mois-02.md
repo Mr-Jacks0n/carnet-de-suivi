@@ -20,3 +20,4 @@
 - · idée : un auto-audit du dossier de travail
 - · mise en page : juillet a porté un gros sprint réel
 - · paramétrage d'une routine de sauvegarde hebdomadaire
+- · veille : modèles symboliques et règles · le cas local
