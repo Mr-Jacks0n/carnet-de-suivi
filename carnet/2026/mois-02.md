@@ -19,3 +19,4 @@
 - · reste le geste le plus rentable : écrire tous les jours
 - · idée : un auto-audit du dossier de travail
 - · mise en page : juillet a porté un gros sprint réel
+- · paramétrage d'une routine de sauvegarde hebdomadaire
