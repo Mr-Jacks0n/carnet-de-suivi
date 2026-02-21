@@ -16,3 +16,4 @@
 - · essai : fuseaux horaires locales via zoneinfo
 - · essai : fuseaux horaires locales via zoneinfo
 - · objet de l'année : approfondir, plus que tout
+- · reste le geste le plus rentable : écrire tous les jours
