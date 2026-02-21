@@ -15,3 +15,4 @@
 - · réglage : environnements virtuels par projet, jamais partagés
 - · essai : fuseaux horaires locales via zoneinfo
 - · essai : fuseaux horaires locales via zoneinfo
+- · objet de l'année : approfondir, plus que tout
