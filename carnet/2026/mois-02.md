@@ -18,3 +18,4 @@
 - · objet de l'année : approfondir, plus que tout
 - · reste le geste le plus rentable : écrire tous les jours
 - · idée : un auto-audit du dossier de travail
+- · mise en page : juillet a porté un gros sprint réel
