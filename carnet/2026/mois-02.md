@@ -21,3 +21,4 @@
 - · mise en page : juillet a porté un gros sprint réel
 - · paramétrage d'une routine de sauvegarde hebdomadaire
 - · veille : modèles symboliques et règles · le cas local
+- · essai : fuseaux horaires locales via zoneinfo
