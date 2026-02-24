@@ -23,3 +23,4 @@
 - · veille : modèles symboliques et règles · le cas local
 - · essai : fuseaux horaires locales via zoneinfo
 - · paramétrage d'une routine de sauvegarde hebdomadaire
+- · test : garder des émojis sobres pour la lisibilité console
