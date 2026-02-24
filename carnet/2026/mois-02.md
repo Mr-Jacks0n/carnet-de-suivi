@@ -24,3 +24,4 @@
 - · essai : fuseaux horaires locales via zoneinfo
 - · paramétrage d'une routine de sauvegarde hebdomadaire
 - · test : garder des émojis sobres pour la lisibilité console
+- · essai : pipeline local de prétraitement de fichiers
