@@ -26,3 +26,4 @@
 - · test : garder des émojis sobres pour la lisibilité console
 - · essai : pipeline local de prétraitement de fichiers
 - · automne : préparé le dernier trimestre calmement
+- · reste le geste le plus rentable : écrire tous les jours
