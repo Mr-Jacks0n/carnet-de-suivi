@@ -7,3 +7,4 @@
 - · reste le geste le plus rentable : écrire tous les jours
 - · rappel : pas d'identifiant personnel dans les notes
 - · essai : brouillon d'une fenêtre de chat apprenant
+- · essai : pipeline local de prétraitement de fichiers
