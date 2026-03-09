@@ -16,3 +16,4 @@
 - · checklist versionnée pour finir les semaines proprement
 - · essai : un parseur maison · reprendre le tout plus tard
 - · note : éviter les promesses vagues dans un carnet
+- · août : pause maîtrisée · reprise douce en septembre
