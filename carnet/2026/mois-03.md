@@ -12,3 +12,4 @@
 - · leçon : la palette typographique aide la relecture
 - · lecture : la doc de la stdlib python · cas de calendar
 - · test : garder des émojis sobres pour la lisibilité console
+- · bilan : dix mois, le carnet s'est tenu · continuer
