@@ -9,3 +9,4 @@
 - · essai : brouillon d'une fenêtre de chat apprenant
 - · essai : pipeline local de prétraitement de fichiers
 - · veille : deux articles sur les interfaces sobres
+- · leçon : la palette typographique aide la relecture
