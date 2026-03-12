@@ -10,3 +10,4 @@
 - · essai : pipeline local de prétraitement de fichiers
 - · veille : deux articles sur les interfaces sobres
 - · leçon : la palette typographique aide la relecture
+- · lecture : la doc de la stdlib python · cas de calendar
