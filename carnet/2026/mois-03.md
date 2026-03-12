@@ -14,3 +14,4 @@
 - · test : garder des émojis sobres pour la lisibilité console
 - · bilan : dix mois, le carnet s'est tenu · continuer
 - · checklist versionnée pour finir les semaines proprement
+- · essai : un parseur maison · reprendre le tout plus tard
