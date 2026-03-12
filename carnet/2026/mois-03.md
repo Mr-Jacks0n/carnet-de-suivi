@@ -8,3 +8,4 @@
 - · rappel : pas d'identifiant personnel dans les notes
 - · essai : brouillon d'une fenêtre de chat apprenant
 - · essai : pipeline local de prétraitement de fichiers
+- · veille : deux articles sur les interfaces sobres
