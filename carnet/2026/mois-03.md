@@ -3,3 +3,4 @@
 - · réflexe : poser la question avant d'y répondre
 - · rappel : pas d'identifiant personnel dans les notes
 - · réflexe : poser la question avant d'y répondre
+- · essai : fuseaux horaires locales via zoneinfo
