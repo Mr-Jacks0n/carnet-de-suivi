@@ -18,3 +18,4 @@
 - · note : éviter les promesses vagues dans un carnet
 - · août : pause maîtrisée · reprise douce en septembre
 - · réflexe : documenter avant de refacturer
+- · reste simple : un fichier de notes par mois
