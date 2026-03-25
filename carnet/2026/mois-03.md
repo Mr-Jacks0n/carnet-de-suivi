@@ -22,3 +22,4 @@
 - · bilan : dix mois, le carnet s'est tenu · continuer
 - · note : de petites versions valent mieux qu'un tout unique
 - · essai : page de vitrine à la main, sans framework
+- · vocabulaire repéré : frontmatter, route, preuve
