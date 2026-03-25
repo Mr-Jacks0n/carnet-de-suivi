@@ -24,3 +24,4 @@
 - · essai : page de vitrine à la main, sans framework
 - · vocabulaire repéré : frontmatter, route, preuve
 - · essai : fuseaux horaires locales via zoneinfo
+- · test : garder des émojis sobres pour la lisibilité console
