@@ -20,3 +20,4 @@
 - · réflexe : documenter avant de refacturer
 - · reste simple : un fichier de notes par mois
 - · bilan : dix mois, le carnet s'est tenu · continuer
+- · note : de petites versions valent mieux qu'un tout unique
