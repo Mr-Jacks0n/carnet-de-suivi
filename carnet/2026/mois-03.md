@@ -27,3 +27,4 @@
 - · test : garder des émojis sobres pour la lisibilité console
 - · réglage : environnements virtuels par projet, jamais partagés
 - · bonne surprise : la structure du carnet a tenu
+- · lecture : la doc de la stdlib python · cas de calendar
