@@ -6,3 +6,4 @@
 - · idée : petite démo web deux cents pour cent navigateur
 - · essai : modéliser un routeur simple d'entrées
 - · notion : séparateurs homogènes dans la documentation
+- · bilan : dix mois, le carnet s'est tenu · continuer
