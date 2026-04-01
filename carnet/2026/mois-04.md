@@ -12,3 +12,4 @@
 - · objectif du trimestre : clôturer proprement
 - · automne : préparé le dernier trimestre calmement
 - · idée : un auto-audit du dossier de travail
+- · test : garder des émojis sobres pour la lisibilité console
