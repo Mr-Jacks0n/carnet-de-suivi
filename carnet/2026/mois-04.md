@@ -10,3 +10,4 @@
 - · réflexe : poser la question avant d'y répondre
 - · réflexion : se limiter à la stdlib fonctionne ici
 - · objectif du trimestre : clôturer proprement
+- · automne : préparé le dernier trimestre calmement
