@@ -11,3 +11,4 @@
 - · réflexion : se limiter à la stdlib fonctionne ici
 - · objectif du trimestre : clôturer proprement
 - · automne : préparé le dernier trimestre calmement
+- · idée : un auto-audit du dossier de travail
