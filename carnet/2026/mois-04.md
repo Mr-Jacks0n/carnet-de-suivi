@@ -9,3 +9,4 @@
 - · bilan : dix mois, le carnet s'est tenu · continuer
 - · réflexe : poser la question avant d'y répondre
 - · réflexion : se limiter à la stdlib fonctionne ici
+- · objectif du trimestre : clôturer proprement
