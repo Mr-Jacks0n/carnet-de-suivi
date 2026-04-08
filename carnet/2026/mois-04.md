@@ -15,3 +15,4 @@
 - · test : garder des émojis sobres pour la lisibilité console
 - · essai : page de vitrine à la main, sans framework
 - · mise en page : juillet a porté un gros sprint réel
+- · réflexe : poser la question avant d'y répondre
