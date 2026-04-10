@@ -14,3 +14,4 @@
 - · idée : un auto-audit du dossier de travail
 - · test : garder des émojis sobres pour la lisibilité console
 - · essai : page de vitrine à la main, sans framework
+- · mise en page : juillet a porté un gros sprint réel
