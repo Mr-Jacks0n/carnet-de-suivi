@@ -16,3 +16,4 @@
 - · essai : page de vitrine à la main, sans framework
 - · mise en page : juillet a porté un gros sprint réel
 - · réflexe : poser la question avant d'y répondre
+- · bilan : dix mois, le carnet s'est tenu · continuer
