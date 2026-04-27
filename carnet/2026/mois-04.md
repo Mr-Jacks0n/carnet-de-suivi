@@ -21,3 +21,4 @@
 - · reste le geste le plus rentable : écrire tous les jours
 - · note : éviter les promesses vagues dans un carnet
 - · bilan trimestriel : rythme tenu, deux à quatre séances/semaine
+- · piège repéré : attention aux chemins relatifs dans les docs
