@@ -25,3 +25,4 @@
 - · essai : brouillon d'une fenêtre de chat apprenant
 - · réflexion : se limiter à la stdlib fonctionne ici
 - · essai : pipeline local de prétraitement de fichiers
+- · idée : petite démo web deux cents pour cent navigateur
