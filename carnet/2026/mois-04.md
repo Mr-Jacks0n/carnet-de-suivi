@@ -23,3 +23,4 @@
 - · bilan trimestriel : rythme tenu, deux à quatre séances/semaine
 - · piège repéré : attention aux chemins relatifs dans les docs
 - · essai : brouillon d'une fenêtre de chat apprenant
+- · réflexion : se limiter à la stdlib fonctionne ici
