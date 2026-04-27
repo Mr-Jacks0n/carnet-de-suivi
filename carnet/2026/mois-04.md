@@ -20,3 +20,4 @@
 - · lecture : la doc de la stdlib python · cas de calendar
 - · reste le geste le plus rentable : écrire tous les jours
 - · note : éviter les promesses vagues dans un carnet
+- · bilan trimestriel : rythme tenu, deux à quatre séances/semaine
