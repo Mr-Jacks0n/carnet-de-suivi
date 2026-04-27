@@ -26,3 +26,4 @@
 - · réflexion : se limiter à la stdlib fonctionne ici
 - · essai : pipeline local de prétraitement de fichiers
 - · idée : petite démo web deux cents pour cent navigateur
+- · séance : relecture croisée 2025 contre 2026
