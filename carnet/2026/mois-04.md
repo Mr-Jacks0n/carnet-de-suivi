@@ -22,3 +22,4 @@
 - · note : éviter les promesses vagues dans un carnet
 - · bilan trimestriel : rythme tenu, deux à quatre séances/semaine
 - · piège repéré : attention aux chemins relatifs dans les docs
+- · essai : brouillon d'une fenêtre de chat apprenant
