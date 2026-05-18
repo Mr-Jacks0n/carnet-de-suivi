@@ -2,3 +2,4 @@
 
 - · note : éviter les promesses vagues dans un carnet
 - · veille : modèles symboliques et règles · le cas local
+- · notion : séparateurs homogènes dans la documentation
