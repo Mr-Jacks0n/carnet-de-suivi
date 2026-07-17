@@ -2,3 +2,4 @@
 
 - · réflexe : poser la question avant d'y répondre
 - · essai : brouillon d'une fenêtre de chat apprenant
+- · bonne surprise : la structure du carnet a tenu
