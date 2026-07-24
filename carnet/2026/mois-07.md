@@ -4,3 +4,4 @@
 - · essai : brouillon d'une fenêtre de chat apprenant
 - · bonne surprise : la structure du carnet a tenu
 - · paramétrage d'une routine de sauvegarde hebdomadaire
+- · essai : un parseur maison · reprendre le tout plus tard
