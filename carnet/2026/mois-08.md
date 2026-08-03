@@ -2,3 +2,4 @@
 
 - · leçon : la palette typographique aide la relecture
 - · veille : deux articles sur les interfaces sobres
+- · idée notée : mémoire disciplinée · jamais de secret
