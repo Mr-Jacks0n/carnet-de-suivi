@@ -5,3 +5,4 @@
 - · idée notée : mémoire disciplinée · jamais de secret
 - · réflexe : batch de nettoyage tourné en matinée
 - · vocabulaire repéré : frontmatter, route, preuve
+- · bilan : dix mois, le carnet s'est tenu · continuer
