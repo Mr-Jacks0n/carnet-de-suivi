@@ -2,3 +2,4 @@
 
 - · vocabulaire repéré : frontmatter, route, preuve
 - · idée notée : mémoire disciplinée · jamais de secret
+- · août : pause maîtrisée · reprise douce en septembre
