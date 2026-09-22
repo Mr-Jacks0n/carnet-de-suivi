@@ -4,3 +4,4 @@
 - · idée notée : mémoire disciplinée · jamais de secret
 - · août : pause maîtrisée · reprise douce en septembre
 - · checklist versionnée pour finir les semaines proprement
+- · essai : compteur de semaines pour mesurer la constance
