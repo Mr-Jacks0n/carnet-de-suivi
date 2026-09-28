@@ -5,3 +5,4 @@
 - · août : pause maîtrisée · reprise douce en septembre
 - · checklist versionnée pour finir les semaines proprement
 - · essai : compteur de semaines pour mesurer la constance
+- · leçon : la palette typographique aide la relecture
