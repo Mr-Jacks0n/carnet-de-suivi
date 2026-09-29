@@ -7,3 +7,4 @@
 - · essai : compteur de semaines pour mesurer la constance
 - · leçon : la palette typographique aide la relecture
 - · essai : fuseaux horaires locales via zoneinfo
+- · idée : garder la ligne de commande prioritaire
