@@ -8,3 +8,4 @@
 - · revue des notes de 2025 : ce qui a tenu, ce qui a couiné
 - · vocabulaire repéré : frontmatter, route, preuve
 - · veille : modèles symboliques et règles · le cas local
+- · essai : modéliser un routeur simple d'entrées
